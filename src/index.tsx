@@ -17,4 +17,7 @@ game.localizer.loadAsset("story/sampleStoryInteraction.txt").then((text) => {
     window.addEventListener("click", function(){
         mainTextBox.textBox.start();
     });
+    window.addEventListener("touchstart", function() {
+        mainTextBox.textBox.start();
+    })
 });
