@@ -1,0 +1,11 @@
+[
+    {
+        "command": "enter",
+        "arguments": {
+            "character": "Five",
+            "space": "left"
+        }
+    },
+    "Welcome, Twelve.",
+    "This is just a sample thing right now, but hopefully it'll be a little more than that once we're done."
+]

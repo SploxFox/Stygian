@@ -1,0 +1,15 @@
+$$enter({
+    "character": "Five",
+    "space": "left"
+});
+>>Five;
+Welcome, Twelve.#
+This is just a sample thing right now, but hopefully it'll be a little more than that once we're done.#
+>>Twelve;
+Ok.#
+>>Five;
+I want to use this format because <wow>it allows us to do really cool things like this!</wow>#
+>>Twelve;
+Okay, this is epic.#
+>>Continue script here...;
+#
